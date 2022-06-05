@@ -1,5 +1,4 @@
 import streamlit as st
-import streamlit.report_thread
 import streamlit_analytics
 
 
