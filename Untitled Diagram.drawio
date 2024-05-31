@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-31T02:35:39.299Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="1KItDoNK4AKTinLhJ_uI" version="24.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-31T02:38:39.003Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="vjYXynBC5pu41bHVHvGD" version="24.4.3" type="github">
   <diagram name="Page-1" id="XGI8lvFBCLNwqOxvpuwL">
-    <mxGraphModel dx="1363" dy="866" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1735" dy="1102" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,10 +8,10 @@
           <mxGeometry x="501.75" y="267.5" width="114.75" height="133.5" as="geometry" />
         </mxCell>
         <mxCell id="CK50bNE_8f3SzOY5uAgv-2" value="Amazon S3" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.s3;" vertex="1" parent="1">
-          <mxGeometry x="510" y="100" width="98.25" height="70" as="geometry" />
+          <mxGeometry x="515" y="110" width="88.25" height="50" as="geometry" />
         </mxCell>
         <mxCell id="CK50bNE_8f3SzOY5uAgv-3" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.rds;fillColor=#2E73B8;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="720" y="300.5" width="72" height="81" as="geometry" />
+          <mxGeometry x="730" y="300.5" width="72" height="81" as="geometry" />
         </mxCell>
         <mxCell id="CK50bNE_8f3SzOY5uAgv-5" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.internet_gateway;fillColor=#F58534;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="200" y="300.5" width="80" height="83" as="geometry" />
@@ -28,8 +28,8 @@
         <mxCell id="CK50bNE_8f3SzOY5uAgv-9" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://streamlit.io/images/brand/streamlit-mark-color.svg;" vertex="1" parent="1">
           <mxGeometry x="378.25" y="540" width="120.53" height="66.07" as="geometry" />
         </mxCell>
-        <mxCell id="CK50bNE_8f3SzOY5uAgv-10" value="&lt;h2&gt;INTERNET&lt;/h2&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="40" y="383.5" width="60" height="30" as="geometry" />
+        <mxCell id="CK50bNE_8f3SzOY5uAgv-10" value="&lt;h2&gt;GUVI APP USERS ON&lt;br&gt;INTERNET&lt;/h2&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-0.11999999999999922" y="401" width="149.75" height="31" as="geometry" />
         </mxCell>
         <mxCell id="CK50bNE_8f3SzOY5uAgv-11" value="&lt;h2 style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;INTERNET GATEWAY&lt;/h2&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="374" width="120" height="70" as="geometry" />
@@ -44,7 +44,7 @@
           <mxGeometry x="416.25" y="620" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="CK50bNE_8f3SzOY5uAgv-15" value="&lt;h2&gt;GRADIO&lt;/h2&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="650" y="620" width="60" height="30" as="geometry" />
+          <mxGeometry x="665" y="620" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="CK50bNE_8f3SzOY5uAgv-16" value="&lt;h2&gt;OR&lt;/h2&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="545.38" y="558.04" width="60" height="30" as="geometry" />
@@ -53,7 +53,7 @@
           <mxGeometry x="696" y="410" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="CK50bNE_8f3SzOY5uAgv-18" value="&lt;h2&gt;S3 BUCKET TO STORE APP.PY AND OTHER FILES(OPTIONAL)&lt;/h2&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="435" y="50" width="248.25" height="30" as="geometry" />
+          <mxGeometry x="440" y="50" width="248.25" height="30" as="geometry" />
         </mxCell>
         <mxCell id="CK50bNE_8f3SzOY5uAgv-19" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=4;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -88,14 +88,17 @@
         <mxCell id="CK50bNE_8f3SzOY5uAgv-25" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="550" y="470" as="sourcePoint" />
-            <mxPoint x="460" y="520" as="targetPoint" />
+            <mxPoint x="470" y="520" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="CK50bNE_8f3SzOY5uAgv-26" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="560" y="470" as="sourcePoint" />
-            <mxPoint x="670" y="510" as="targetPoint" />
+            <mxPoint x="580" y="470" as="sourcePoint" />
+            <mxPoint x="670" y="520" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="CK50bNE_8f3SzOY5uAgv-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="CK50bNE_8f3SzOY5uAgv-10" target="CK50bNE_8f3SzOY5uAgv-10">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
