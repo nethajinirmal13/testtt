@@ -1,9 +1,27 @@
-<mxfile host="app.diagrams.net" modified="2024-05-31T02:20:17.433Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" version="24.4.3" etag="rAQ2adHZvz0h5NLRocx8" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-31T02:23:36.937Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="ZKpPh4X7XGphdp3sUGHl" version="24.4.3" type="github">
   <diagram name="Page-1" id="XGI8lvFBCLNwqOxvpuwL">
-    <mxGraphModel>
+    <mxGraphModel dx="1735" dy="1102" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="CK50bNE_8f3SzOY5uAgv-1" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.ec2;fillColor=#F58534;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="541.75" y="320" width="76.5" height="93" as="geometry" />
+        </mxCell>
+        <mxCell id="CK50bNE_8f3SzOY5uAgv-2" value="Amazon S3" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.s3;" vertex="1" parent="1">
+          <mxGeometry x="538.25" y="160" width="80" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="CK50bNE_8f3SzOY5uAgv-3" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.rds;fillColor=#2E73B8;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="700" y="320" width="72" height="81" as="geometry" />
+        </mxCell>
+        <mxCell id="CK50bNE_8f3SzOY5uAgv-5" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.internet_gateway;fillColor=#F58534;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="233.75" y="311" width="69" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="CK50bNE_8f3SzOY5uAgv-6" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.internet_3;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="60" y="320" width="79.5" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="CK50bNE_8f3SzOY5uAgv-7" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Network_Security_Groups_Classic.svg;" vertex="1" parent="1">
+          <mxGeometry x="414" y="340" width="44.4" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
